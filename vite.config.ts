@@ -21,8 +21,8 @@ export default defineConfig({
       includeAssets: ['icons/favicon.png'],
       manifest: {
         id: '/',
-        name: 'הספורט שלי',
-        short_name: 'הספורט שלי',
+        name: 'jodu',
+        short_name: 'jodu',
         description: 'קרוספיט, ג׳ודו ותזונה במקום אחד',
         lang: 'he',
         dir: 'rtl',
